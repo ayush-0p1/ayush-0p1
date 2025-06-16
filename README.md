@@ -37,7 +37,7 @@ From microcontrollers to machine learning, from DevOps pipelines to UI pixels �
 
 ---
 
-### 🏥 CHSW – Smart Healthcare Monitoring  
+### 🏥 Smart Healthcare Monitoring  
 **Repo**: [`CHSW`](https://github.com/ayush-0p1/CHSW)
 
 > *A full-stack, IoT-powered system for health anomaly detection.*

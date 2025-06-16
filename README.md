@@ -12,15 +12,13 @@
 
 ---
 
-## 🧩 About Me
+## 👨‍💻 About Me
 
-I’m a passionate developer who enjoys creating intelligent, scalable, and impactful software systems.  
-From microcontrollers to machine learning, from DevOps pipelines to UI pixels — I enjoy working across the stack.
-
-- 🔬 Focus areas: **AI**, **Web**, **DevOps**, **Systems Thinking**
-- 💬 Topics I love: Design Patterns, Edge ML, Spark Pipelines, Clean Architecture
-- 🧭 Mission: Build tech that actually helps people — not just demos
-- 🌱 Forever learning and refining the craft of software
+- 🚀 A curious builder passionate about turning complex ideas into impactful tech  
+- 💡 Exploring the intersection of code, creativity, and performance — from frontends to neural networks  
+- 🧩 Enjoy crafting intelligent systems that are clean, scalable, and user-focused  
+- 🛠️ AI, DevOps, Web, or embedded tech — I love learning, iterating, and shipping fast  
+- 🎯 *Philosophy:* Think deeply, build simply, and keep evolving  
 
 ---
 
